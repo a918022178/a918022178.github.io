@@ -1072,7 +1072,7 @@ a {
   color: #808080;
 }
 .post-list li a:hover {
-color
+  /* color */
   text-decoration: none;
 }
 .post-list li:hover a {
